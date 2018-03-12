@@ -1,0 +1,6 @@
+goat,ship
+vah,ship,play
+man,goat,play,vah
+ship,play
+vah,play
+goat
